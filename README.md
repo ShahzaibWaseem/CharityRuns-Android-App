@@ -1,5 +1,7 @@
 # Charity Runs Android App
 
+To see more description visit [this](https://shahzaibwaseem.github.io/projects/Charity-Runs/) link.
+
 ## Description
 This was an android app developed with the goal to raise awareness for cancer research. It was a marathon titled "5K run around Manchester" where people were encouraged to take part in a 5K steps run around Manchester to raise awareness for cancer research. The run starts in "Picadily Gardens" and ends in "Trafford". The event took place on 15th June 2018.
 
